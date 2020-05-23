@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    display: flex;
+    border-radius: 20px;
+}
+
+h2{
+    color: black;
+}
